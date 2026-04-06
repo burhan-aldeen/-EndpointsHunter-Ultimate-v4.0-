@@ -1,4 +1,3 @@
-Here is a clean, professional, and human-written README.md in English, tailored for your version 5.0 update.
 
 ***
 
